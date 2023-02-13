@@ -1,3 +1,2 @@
 #!/bin/bash
-greeting ="Hello, World"
-echo $greeting
+echo $"Hello, World"
